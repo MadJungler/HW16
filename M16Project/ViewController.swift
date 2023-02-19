@@ -1,17 +1,19 @@
 //
 //  ViewController.swift
-//  HW16
+//  M16Project
 //
-//  Created by Павел on 19.02.2023.
+//  Created by sotskiy on 23.11.2021.
 //
 
 import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var titleLabel: UILabel!
+
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        titleLabel.text = "Pavel"
     }
 
 
