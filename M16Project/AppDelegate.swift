@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  HW16
+//  M16Project
 //
-//  Created by Павел on 19.02.2023.
+//  Created by sotskiy on 23.11.2021.
 //
 
 import UIKit
@@ -13,6 +13,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        // Override point for customization after application launch.
         return true
     }
 
